@@ -9,3 +9,9 @@ September.11th
 <p>This is the same data displayed as Sparklines.</p>
 </div>
 <div class="flourish-embed flourish-chart" data-src="visualisation/11155646"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div>
+<br><h3><u>Flourish Version2:</u></h3>
+<p>This is the same data displayed as a Bubble Chart.</p>
+</div>
+<div class="flourish-embed" data-src="visualisation/11162552"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
