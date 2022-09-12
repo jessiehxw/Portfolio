@@ -6,6 +6,6 @@ September.11th
 
 <div>
 <br>
-Flourish Version:
+<h3><u>Flourish Version:</u></h3>
 </div>
 <div class="flourish-embed flourish-chart" data-src="visualisation/11155646"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
