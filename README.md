@@ -25,7 +25,6 @@ This is my public portfolio for Telling Stories with Data at CMU!
 - to make interactive diagrams
 
 ### Portfolio 
-[King County Demo](KingCountyDemo.md)
-
+[King County Demo](KingCountyDemo.md)  
 [Visualizing Government Debt](VisualizingGovernmentDebt.md)
 
