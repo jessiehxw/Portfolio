@@ -55,6 +55,9 @@ The original sequential colors used are too close to each other, which makes it 
 #### Donut Chart Remake:
 ![Donut Chart Remake Sketch](Pictures/Donut-chart-remake-sketch.jpeg)
 
+I think the donut chart is a good answer for this piece of data but not the best. Since this chart is more about displaying the different things that international students miss about home and what they miss more compared to others, I chose to amplify the difference between percentages of each element by using Treemap. 
+
+Also, since "Native Language", "Local Community Hustle and Bustle," "Public Transport Sounds," and "Native Wildlife noises" are subcategories of "Sounds of their hometown," I came up with the idea of having a treemap inside treemap. So I split the "Sounds of their hometown" rectangle into small rectangles representing each subcategory. Then, if possible, there can be a transition animation between the two treemaps unfolding the "Sounds of their hometown" into more detailed sounds. And if that is too hard to realize, we can have both charts displayed side by side. 
 
 
 
