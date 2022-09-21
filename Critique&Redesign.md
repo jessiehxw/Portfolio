@@ -76,8 +76,8 @@ Pie chart:
 >Who do you think is the intended audience for this?  
 "I think the intended audience would be some researcher, educators, or anyone who works in educational industry." 
 
->Is there anything you would change or do differently?
-""
+Is there anything you would change or do differently?
+>The red and green color combo can be unfriendly for people with colorblindness. 
 
 
 
