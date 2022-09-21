@@ -50,7 +50,7 @@ Firstly, I rewrote the title and subtitle to be more informative. Compared to "H
 
 Then, I reordered the pie chart slices from large to small. I moved the number outside for the smallest slice that couldn't fit the number and connected it to the slice with a line. Instead of having a legend at the bottom, I repositioned the labels next to their corresponding slice to reduce readers' eye movement.
 
-For the color 
+The original sequential colors used are too close to each other, which makes it hard to align the different pieces. So I decided to change it into diverging color between red and green. (Red for the "Tremendous" stress, and green for "Not a bit" of stress, as people tend to perceive green as good and red as a warning.)
 
 #### Donut Chart Remake:
 ![Donut Chart Remake Sketch](Pictures/Donut-chart-remake-sketch.jpeg)
