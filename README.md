@@ -28,4 +28,5 @@ This is my public portfolio for Telling Stories with Data at CMU!
 [King County Demo](KingCountyDemo.md)  
 [Visualizing Government Debt](VisualizingGovernmentDebt.md)  
 [Tableau Visualization](TableauVisualization.md)
+[Critique & Redesign](Critique&Redesign.md)
 
