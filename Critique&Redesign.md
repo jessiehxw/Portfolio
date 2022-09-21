@@ -41,9 +41,12 @@ Cons:
 - According to the context (“These sounds include people talking in their native language (50%), local community hustle and bustle (26%), public transport sounds (25%), and native wildlife (20%).”), the “Native language conversations” and “native wildlife noises” are part of the “sounds of their hometown.” However, the chart compares them at the same level as separate categories, which is misleading.
 
 ### Sketch some ideas!
-After completing the 
+After evaluating the good and bad's of the two charts, I brainstormed ideas for improving each and sketched them in different layouts, chart types, and colors.
+
 #### Pie Chart Remake:
 <img src="Pictures/Pie-chart-sketch.png" alt="Sketch of the Pie Chart" width="700"/>
+
+Firstly, I rewrote the title and subtitle to be more informative 
 
 #### Donut Chart Remake:
 ![Donut Chart Remake Sketch](Pictures/Donut-chart-remake-sketch.jpeg)
