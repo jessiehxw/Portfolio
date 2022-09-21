@@ -7,7 +7,7 @@
 As the semester proceeds, CMU students are experiencing an increasing amount of stress with a more significant workload and exams. Thus, I searched "College Student Stress Report" online and clicked on the first result that popped up. The report revealed different stress sources for students, including grades, bullying, homesickness, etc. It contains numerous visuals throughout the information. However, I found the visualizations poorly designed with a bad layout, wrong choice of color, and chart types. These flaws prevent them from adding value to the article, and I would love to see them delivered in a better form.
 
 #### Critique on the Original Charts
-There are multiple charts on this page. In the Google form, I critiqued on several of them with their positive and negative aspects. Since I don't have time to redesign every single one of them, I chose to focus on one pie chart, one bar chart, one donut chart and one special type.
+There are multiple charts on this page. In the Google form, I critiqued on several of them with their positive and negative aspects. Since I don't have time to redesign every single one of them, I chose to focus on one pie chart and one special chart type.
 
 #### Pie Chart:
 ![How Stressed are Students?](Pictures/how-stressed-are-student.png)
