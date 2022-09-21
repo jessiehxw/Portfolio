@@ -158,6 +158,9 @@ I also made a second version where I adopted the viewer's feedback on regrouping
 </script>
 
 #### Donut Chart Remake:
+According to the viewer feedback, I get rid of the percentage numbers as labels and only show them while hover. I also filled each area with colors that match the theme. For example, for "Sensory experience of home", I colored it in warm orange since home is opposed to give the safe and pleasant vibe. 
+
+My ideal design is to add a transition animation between the two charts below so that the "Sounds of their hometown" area will gradually fade into the four smaller divisions shown on the right side of the second chart. In that way, the viewer can clearly understand that the four smaller divisions are subcategories of the "Sounds of their hometown." However, with Flourish, I could not achieve that, so I positioned the treemap to have "Sensory Experience of Home" occupying the same area in two charts and used consistent color to create the same effect I would want to achieve with animation.
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/11249959"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/11249877"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
