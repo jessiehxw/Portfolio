@@ -63,22 +63,39 @@ I repositioned the labels with larger font inside the corresponding rectangles a
 
 ### Get some Feedback! 
 #### Student, early 20's
-Pie chart:
+<ins>Pie chart:</ins>  
 
 Can you tell me what you think this is?  
->This is a Pie chart represents groups of students experiencing different level of stress.
+>This pie chart represents groups of students experiencing different levels of stress.
 
 Can you describe to me what this is telling you?   
->Most students are experiencing more than average amount of stress.
+>Most students are experiencing more than the average amount of stress.
 
 Is there anything you find surprising or confusing?  
->I'm surprised that there is actually 2.4% students that are not stressed at all :)
+>I'm surprised that there are actually 2.4% of students that are not stressed at all :)
 
 Who do you think is the intended audience for this?  
->I think the intended audience would be some researcher, educators, or anyone who works in educational industry.
+>I think the intended audience would be some researchers, educators, or anyone who works in the educational industry.
 
 Is there anything you would change or do differently?
->The red and green color combo can be unfriendly for people with colorblindness. 
+>The red and green color combo can be unfriendly for people with color blindness. Maybe try other colors.
+
+<ins>Donut chart:</ins> 
+
+Can you tell me what you think this is?
+>These are the different things that international students miss about home. 
+
+Can you describe to me what this is telling you?
+>International students miss most of the sounds of their hometown.
+
+Is there anything you find surprising or confusing?
+>At first glance, I thought everything in the box adds up to 100%, which is not the case.
+
+Who do you think is the intended audience for this?
+>I think the intended audience would be some researchers, educators, or officers in the International Students departments.
+
+Is there anything you would change or do differently?
+>I would get rid of the percentage numbers or only show them when you hover onto one piece so that people won't mix them up with the usage of a pie chart where everything adds up to 100%. As what matters here is the comparison of quantity, the percentages won't be necessary.  
 
 
 
