@@ -34,8 +34,12 @@ Cons:
 - As all the charts have the same color, there is no need to have a color legend below each one.
 - According to the context (“These sounds include people talking in their native language (50%), local community hustle and bustle (26%), public transport sounds (25%), and native wildlife (20%).”), the “Native language conversations” and “native wildlife noises” are part of the “sounds of their hometown.” However, the chart compares them at the same level as separate categories, which is misleading.
 
-### Sketch
+### Sketch some ideas!
+#### Pie Chart:
 <img src="Pictures/Pie-chart-sketch.png" alt="Sketch of the Pie Chart" width="700"/>
+
+#### Donut Chart:
+![Donut Chart Remake Sketch](Pictures/Donut-chart-remake-sketch.jpeg)
 
 
 
