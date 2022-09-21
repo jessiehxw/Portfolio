@@ -59,6 +59,27 @@ I think the donut chart is a good answer for this piece of data but not the best
 
 Also, since "Native Language", "Local Community Hustle and Bustle," "Public Transport Sounds," and "Native Wildlife noises" are subcategories of "Sounds of their hometown," I came up with the idea of having a treemap inside treemap. So I split the "Sounds of their hometown" rectangle into small rectangles representing each subcategory. Then, if possible, there can be a transition animation between the two treemaps unfolding the "Sounds of their hometown" into more detailed sounds. And if that is too hard to realize, we can have both charts displayed side by side. 
 
+I repositioned the labels with larger font inside the corresponding rectangles alongside the percentages. 
+
+### Get some Feedback! 
+#### Student, early 20's
+Pie chart:
+>Can you tell me what you think this is?  
+"This is a Pie chart represents groups of students experiencing different level of stress." 
+
+>Can you describe to me what this is telling you?   
+"Most students are experiencing more than average amount of stress."
+
+>Is there anything you find surprising or confusing?  
+"I'm surprised that there is actually 2.4% students that are not stressed at all :)"
+
+>Who do you think is the intended audience for this?  
+"I think the intended audience would be some researcher, educators, or anyone who works in educational industry." 
+
+>Is there anything you would change or do differently?
+""
+
+
 
 
 
