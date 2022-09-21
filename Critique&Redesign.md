@@ -97,6 +97,42 @@ Who do you think is the intended audience for this?
 Is there anything you would change or do differently?
 >I would get rid of the percentage numbers or only show them when you hover onto one piece so that people won't mix them up with the usage of a pie chart where everything adds up to 100%. As what matters here is the comparison of quantity, the percentages won't be necessary.  
 
+#### Adult, mid 20's
+<ins>Pie chart:</ins>
+
+Can you tell me what you think this is?
+>Survey result of how much stress students have. 
+
+Can you describe to me what this is telling you?
+>More than half of the students are baring with huge stresses. 
+
+Is there anything you find surprising or confusing?
+>Not really. I understand how much stress students have especially in college where you need to do job search while having classes. 
+
+Who do you think is the intended audience for this?
+>People do research on students' mental health condition. 
+
+Is there anything you would change or do differently?
+>I would reduce the categories to only two: students with more than average amount of stress and students with average or below the amount of stress. Since the central message of the chart is that most students are stressed out, those medium categories don't matter here. 
+
+<ins>Donut chart:</ins>
+
+Can you tell me what you think this is?
+>A display of things that international students miss. 
+
+Can you describe to me what this is telling you?
+>Students miss their hometown sounds the most, and within which, they miss the sound of their native language.
+
+Is there anything you find surprising or confusing?
+>It's interesting how people miss the sound of public transportation in their hometowns.
+
+Who do you think is the intended audience for this?
+>Maybe people who research international students' life in the US and their psychological condition.
+
+Is there anything you would change or do differently?
+>I like the idea of replacing the donut chart with a treemap. It will be more interesting to fill each area with corresponding colors or patterns.
+
+
 
 
 
