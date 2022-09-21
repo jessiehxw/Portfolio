@@ -26,14 +26,14 @@ Cons:
 <img src="Pictures/What-Do-International-Students-Miss-About-Home.png" alt="How Stressed are Students?" width="700"/>
 
 Pros:
-- Four separate donut charts show the proportion of each group clearly
-- show comparison between different categories
+- Four donut charts show the proportion of each group side by side. Since they don't add up to 100%, donut charts are good choices for showing percentages.
 
 Cons:
 - The two zeros at the end of each percentage value are unnecessary.
-- Usually, deeper colors represent high density, but it is the opposite. The most significant stress is in the brightest blue. This can confuse people at first look
-- The numbers are poorly positioned. For small slices, the number doesn’t fit in the piece.
-- The current title is a good summary but doesn't tell a good story. It can be changed to something more informative.
+- There is no emphasis on the chart with close percentages, single color, and small labels below each donut.
+- As all the charts have the same color, there is no need to have a color legend below each one.
+- As all the charts have the same color, there is no need to have a color legend below each one.
+- According to the context (“These sounds include people talking in their native language (50%), local community hustle and bustle (26%), public transport sounds (25%), and native wildlife (20%).”), the “Native language conversations” and “native wildlife noises” are part of the “sounds of their hometown.” However, the chart compares them at the same level as separate categories, which is misleading.
 
 
 
