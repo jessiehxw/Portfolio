@@ -29,4 +29,5 @@ This is my public portfolio for Telling Stories with Data at CMU!
 [Visualizing Government Debt](VisualizingGovernmentDebt.md)  
 [Tableau Visualization](TableauVisualization.md)  
 [Critique & Redesign](Critique&Redesign.md)
+[Part I](final-project-part1.md)
 
