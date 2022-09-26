@@ -28,6 +28,10 @@ This is my public portfolio for Telling Stories with Data at CMU!
 [King County Demo](KingCountyDemo.md)  
 [Visualizing Government Debt](VisualizingGovernmentDebt.md)  
 [Tableau Visualization](TableauVisualization.md)  
-[Critique & Redesign](Critique&Redesign.md)
-[Part I](final-project-part1.md)
+[Critique & Redesign](Critique&Redesign.md)  
+
+#### Final Project:
+[Part I](final-project-part1.md)  
+This part includes the outline, initial sketches, data, and medium I would use to deliver the project.
+
 
