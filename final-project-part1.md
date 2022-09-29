@@ -11,13 +11,8 @@ In summary, I want to talk about people's happiness rate worldwide, how they cha
 
 **Resolution:** Implement a positive living mindset and choose a lifestyle that suits you instead of blindly chasing people on the internet.
 
-
-
-
-
-
-
 #### Initial Sketches
+![Part 1 Sketch](Pictures/Final-Project-Sketch.png)
 
 #### Data
 
