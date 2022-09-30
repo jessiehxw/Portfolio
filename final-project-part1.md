@@ -28,11 +28,11 @@ For the second visual of the Set-up section, I want to convey how people have be
 
 <img src="Pictures/Conflict-Visual1.png" alt="Conflict - Visual 1" width="700"/>
 
-Then, after 
+Then, after giving some background, I lead viewer to the exploration of the reasons behind the unhappier trend in US. 
 
-<img src="Pictures/Conflict-Visual2.png" alt="Conflict - Visual 2" width="700"/>
+<img src="Pictures/Conflict-Visual2.png" alt="Conflict - Visual 2" width="1000"/>
 
-<img src="Pictures/Conflict-Visual3.png" alt="Conflict - Visual 3" width="700"/>
+<img src="Pictures/Conflict-Visual3.png" alt="Conflict - Visual 3" width="1000"/>
 
 #### Data
 Following are the data sources that I used to create the visualizations: 
