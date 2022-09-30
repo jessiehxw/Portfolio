@@ -28,9 +28,11 @@ For the second visual of the Set-up section, I want to convey how people have be
 
 <img src="Pictures/Conflict-Visual1.png" alt="Conflict - Visual 1" width="700"/>
 
-Then, after giving some background, I lead viewer to the exploration of the reasons behind the unhappier trend in US. 
+Then, after giving some background, I lead the viewer to explore the reasons behind the unhappier trend in the US. The first I want to talk about that is the closest to our lives recently is COVID-19's effect. Not only in the US, but people worldwide are also experiencing much higher anxiety during the pandemic, worrying about being sick or feeling depressed about loved ones getting sick. I created ten figures for the visualization and changed their appearance by proportion. For example, according to research, 19% of all Americans report having someone close die from the virus. Expressed more directly, in every ten Americans, two people have a close friend or relative that died from the virus. I added a crying face and a black outfit for the two figures to illustrate the proportion. Similar to the adults that worried about getting sick, in every ten Americans, six adults are worried. I added a face mask and an anxious face for the six figures. The typical donut or pie chart may be boring for the viewer. Thus, I chose something different this time. The cartoon figures with unique facial expressions can be more vivid and approachable to the audience.
 
 <img src="Pictures/Conflict-Visual2.png" alt="Conflict - Visual 2" width="1000"/>
+
+
 
 <img src="Pictures/Conflict-Visual3.png" alt="Conflict - Visual 3" width="1000"/>
 
