@@ -16,6 +16,18 @@ In summary, I want to talk about people's happiness rate worldwide, how they cha
 
 #### Initial Sketches
 ![Part 1 Sketch](Pictures/Final-Project-Sketch.png)
+This is an overview of the sketch I made using Balsamiq Wireframes. Since the charts and texts are small, I will go through the sketch one part at a time below.
+
+![Set up - Visual 1](Pictures/Set-up-visual1.png)
+For the first visual of the Set-up section, I want to make an interactive map that shows the happiness index in different countries in a given year. The map will be in diverging colors with countries with higher happiness index in bright color and countries with lower happiness index in dark color. On the top left side, the viewer can filter different years. When the viewer clicks on a country, a bar chart should appear on a pop-up showing the trend of the Happiness Index through the years. This interactive map provides a platform for viewers to explore how happy people are around the world and whether things change as time passes.
+
+![Set up - Visual 2](Pictures/Set-up-Visual2.png)
+
+![Conflict - Visual 1](Pictures/Conflict-Visual1.png)
+
+![Conflict - Visual 2](Pictures/Conflict-Visual2.png)
+
+![Conflict - Visual 3](Pictures/Conflict-Visual3.png)
 
 #### Data
 Following are the data sources that I used to create the visualizations: 
