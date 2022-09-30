@@ -19,9 +19,10 @@ In summary, I want to talk about people's happiness rate worldwide, how they cha
 This is an overview of the sketch I made using Balsamiq Wireframes. Since the charts and texts are small, I will go through the sketch one part at a time below.
 
 ![Set up - Visual 1](Pictures/Set-up-visual1.png)
-For the first visual of the Set-up section, I want to make an interactive map that shows the happiness index in different countries in a given year. The map will be in diverging colors with countries with higher happiness index in bright color and countries with lower happiness index in dark color. On the top left side, the viewer can filter different years. When the viewer clicks on a country, a bar chart should appear on a pop-up showing the trend of the Happiness Index through the years. This interactive map provides a platform for viewers to explore how happy people are around the world and whether things change as time passes.
+For the first visual of the Set-up section, I want to make an interactive map that shows the Happiness Index in different countries in a given year. The map will be in diverging colors with countries with higher Happiness Index in bright color and countries with lower Happiness Index in dark color. On the top left side, the viewer can filter different years. When the viewer clicks on a country, a bar chart should appear on a pop-up showing the trend of the Happiness Index through the years. This interactive map provides a platform for viewers to explore how happy people are around the world and whether things change as time passes.
 
 ![Set up - Visual 2](Pictures/Set-up-Visual2.png)
+For the second visual of the Set-up section, I want to convey how people have been unhappier worldwide in recent years by comparing the number of countries with increasing or decreasing Happiness Index. Therefore, I plan to create two tables showing the countries in each category and how much the index changed for the country.
 
 ![Conflict - Visual 1](Pictures/Conflict-Visual1.png)
 
@@ -34,7 +35,7 @@ Following are the data sources that I used to create the visualizations:
 > "Happiness score (WHR)" from Gapminder   
 > [Source URL](https://docs.google.com/spreadsheets/d/1Jo6_-6W36Qx2IPa_61JLyQ5zUJAXRIcLcU5zBlUa7pM/edit#gid=501532268)  
 
-This is the national average response to the question of life evaluations asking the following "Please imagine a ladder, with steps numbered from 0 at the bottom to 10 at the top. The top of the ladder represents the best possible life for you, and the bottom of the ladder represents the worst possible life for you. On which step of the ladder would you say you personally feel you stand at this time?" This measure is also referred to as the Cantril life ladder. Gapminder has converted this indicator's scale from 0 to 100 to easily communicate it in terms of percentage. I will use this data to create an **interactive map, the bar charts of each country showing the happiness trend, and the tables summing up countries with increasing or decreasing happiness index from 2000 to 2021**.
+This is the national average response to the question of life evaluations asking the following "Please imagine a ladder, with steps numbered from 0 at the bottom to 10 at the top. The top of the ladder represents the best possible life for you, and the bottom of the ladder represents the worst possible life for you. On which step of the ladder would you say you personally feel you stand at this time?" This measure is also referred to as the Cantril life ladder. Gapminder has converted this indicator's scale from 0 to 100 to easily communicate it in terms of percentage. I will use this data to create an **interactive map, the bar charts of each country showing the happiness trend, and the tables summing up countries with increasing or decreasing Happiness Index from 2000 to 2021**.
 
 > Survey from the Associated Press-NORC Center for Public Affairs Research at the University of Chicago  
 > [Source URL](https://apnorc.org/projects/the-coronavirus-pandemic-one-year-later/)
@@ -63,7 +64,7 @@ The study explored the national wealth distribution in the US. I used the data t
 
 
 #### Method and medium
-I will use Shorthand to create this visualization. For the charts embedded in it, I will use Flourish or Tableau. For the interactive map at the beginning, where the viewer should be able to click and explore the happiness index trend of individual countries, I may need to use tools other than Tableau and Flourish, but I'm not sure what I will use yet.
+I will use Shorthand to create this visualization. For the charts embedded in it, I will use Flourish or Tableau. For the interactive map at the beginning, where the viewer should be able to click and explore the Happiness Index trend of individual countries, I may need to use tools other than Tableau and Flourish, but I'm not sure what I will use yet.
 
 #### Reference
 1. AP-NORC Center for Public Affairs Research. “The Coronavirus Pandemic: One Year Later.” AP-NORC, 11 Mar. 2021, apnorc.org/projects/the-coronavirus-pandemic-one-year-later/. Accessed 30 Sept. 2022.
