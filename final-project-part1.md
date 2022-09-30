@@ -25,7 +25,7 @@ Following are the data sources that I used to create the visualizations:
 This is the national average response to the question of life evaluations asking the following "Please imagine a ladder, with steps numbered from 0 at the bottom to 10 at the top. The top of the ladder represents the best possible life for you, and the bottom of the ladder represents the worst possible life for you. On which step of the ladder would you say you personally feel you stand at this time?" This measure is also referred to as the Cantril life ladder. Gapminder has converted this indicator's scale from 0 to 100 to easily communicate it in terms of percentage. I will use this data to create an **interactive map, the bar charts of each country showing the happiness trend, and the tables summing up countries with increasing or decreasing happiness index from 2000 to 2021**.
 
 > Survey from the Associated Press-NORC Center for Public Affairs Research at the University of Chicago  
-> [Source URL](https://news.uchicago.edu/story/nearly-one-fifth-americans-know-someone-who-has-died-covid-19-survey-says)
+> [Source URL](https://apnorc.org/projects/the-coronavirus-pandemic-one-year-later/)
 
 This survey was conducted online and through telephone interviews using landlines and cell phones with 1,434 adults. One of the survey questions is whether you have a close friend or relative that has died from the COVID-19 virus. This data is used to visualize **how many people are mentally wounded by the death of someone close caused by the pandemic**.
 
