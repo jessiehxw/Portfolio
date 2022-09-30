@@ -36,6 +36,8 @@ Then, we moved to the Economic Aspects. Here, in addition to the sketch of visua
 
 <img src="Pictures/Conflict-Visual3.png" alt="Conflict - Visual 3" width="1000"/>
 
+The last aspect I want to discuss is Social Comparison. Like the previous one, I added some text and layout to create a sketch version of what I will make on Shorthand. The paragraphs discussed how social media and the internet in modern years make it easier for people to access lifestyles from the upper class, which creates a psychological gap that makes people feel like they are missing out on their life. In addition to the effect of social media spreading awareness of income inequality, income inequality in the US is also increasing. For the first visualization, I used the column chart to compare the change in wealth between 1983 and 2016, categorized by social class. The wealth for the bottom 40% is almost unchanged compared to the skyrocketing wealth for the top 1% and 0.1%. I displayed the nation's wealth distribution for different social classes for the second visualization. The top 10% held almost 72% of the nation's total wealth. The main message here is that the increasing income gap amplified by social media spreads anxiety among people, leading to them choosing an unaffordable lifestyle or feeling inferior to others.
+
 #### Data
 Following are the data sources that I used to create the visualizations: 
 > "Happiness score (WHR)" from Gapminder   
