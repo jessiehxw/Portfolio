@@ -32,7 +32,7 @@ Then, after
 
 ![Conflict - Visual 2](Pictures/Conflict-Visual2.png)
 
-![Conflict - Visual 3](Pictures/Conflict-Visual3.png)
+<img src="Pictures/Conflict-Visual3.png" alt="Conflict - Visual 3" width="900"/>
 
 #### Data
 Following are the data sources that I used to create the visualizations: 
