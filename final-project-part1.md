@@ -30,9 +30,9 @@ For the second visual of the Set-up section, I want to convey how people have be
 
 Then, after 
 
-![Conflict - Visual 2](Pictures/Conflict-Visual2.png)
+<img src="Pictures/Conflict-Visual2.png" alt="Conflict - Visual 2" width="700"/>
 
-<img src="Pictures/Conflict-Visual3.png" alt="Conflict - Visual 3" width="900"/>
+<img src="Pictures/Conflict-Visual3.png" alt="Conflict - Visual 3" width="700"/>
 
 #### Data
 Following are the data sources that I used to create the visualizations: 
