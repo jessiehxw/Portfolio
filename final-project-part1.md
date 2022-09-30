@@ -26,7 +26,8 @@ For the first visual of the Set-up section, I want to make an interactive map th
 
 For the second visual of the Set-up section, I want to convey how people have been unhappier worldwide in recent years by comparing the number of countries with increasing or decreasing Happiness Index. Therefore, I plan to create two tables showing the countries in each category and how much the index changed for the country. In addition, I want to highlight the trend of dropping the Happiness Index in two countries I care about most: the US and China(my home country). For this project, I will dig into some reasons that cause the trend in the US. I may redesign the charts to be more creative than simple column charts.
 
-![Conflict - Visual 1](Pictures/Conflict-Visual1.png)
+<img src="Pictures/Conflict-Visual1.png" alt="Conflict - Visual 1" width="700"/>
+
 Then, after 
 
 ![Conflict - Visual 2](Pictures/Conflict-Visual2.png)
