@@ -32,7 +32,7 @@ Then, after giving some background, I lead the viewer to explore the reasons beh
 
 <img src="Pictures/Conflict-Visual2.png" alt="Conflict - Visual 2" width="1000"/>
 
-
+Then, we moved to the Economic Aspects. Here, in addition to the sketch of visualization, I also put some texts that I want to use and lay out everything. The text talked about how modern people are more used to measuring one's value by the money they earn, which brings considerable stress on people fighting for higher income to gain higher social status. On the right, I added two visualizations showing the percentage of Americans satisfied with their earnings or financial wealth. I also used a picture of a dollar bill to visualize the dollar amount that people consider enough. The red shaded area is the gap between what people already earn and the standard of "enough." At the bottom of the paragraphs, I listed some reasons that people felt they didn't make enough with icons of "Inflation," "Inadequate Pay," and "Housing Cost."
 
 <img src="Pictures/Conflict-Visual3.png" alt="Conflict - Visual 3" width="1000"/>
 
