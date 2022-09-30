@@ -54,6 +54,11 @@ The study explored the national wealth distribution in the US. I used the data t
 I will use Shorthand to create this visualization. For the charts embedded in it, I will use Flourish or Tableau. For the interactive map at the beginning, where the viewer should be able to click and explore the happiness index trend of individual countries, I may need to use tools other than Tableau and Flourish, but I'm not sure what I will use yet.
 
 #### Reference
-1. Gapminder. “Data.” Gapminder.org, 2019, www.gapminder.org/data/.
-
+1. AP-NORC Center for Public Affairs Research. “The Coronavirus Pandemic: One Year Later.” AP-NORC, 11 Mar. 2021, apnorc.org/projects/the-coronavirus-pandemic-one-year-later/. Accessed 30 Sept. 2022.
+2. Basse, Andrea. “70% of Americans Say They Don’t Earn Enough Money.” I Will Teach You to Be Rich, 3 Mar. 2022, www.iwillteachyoutoberich.com/blog/how-much-money-is-enough/#:~:text=Here%27s%20what%20we%20found%20out. Accessed 30 Sept. 2022.
+3. Gapminder. “Data.” Gapminder.org, 2019, www.gapminder.org/data/.
+4. Kanell, Michael E. “The Pandemic Enriched Americans but Wealth Gap Still Grew.” Governing, 21 Apr. 2022, www.governing.com/finance/the-pandemic-enriched-americans-but-wealth-gap-still-grew.
+5. Kearney, Audrey, et al. “Mental Health Impact of the COVID-19 Pandemic: An Update.” KFF, 14 Apr. 2021, www.kff.org/coronavirus-covid-19/poll-finding/mental-health-impact-of-the-covid-19-pandemic/.
+6. Putka, Sophie. “Why Are Americans Getting Unhappier?” Discover Magazine, 19 June 2021, www.discovermagazine.com/mind/why-are-americans-getting-unhappier.
+7. Wolff, Edward N. “Household Wealth Trends in the United States, 1962 to 2016: Has Middle Class Wealth Recovered?” National Bureau of Economic Research Working Paper Series, 30 Nov. 2017, www.nber.org/papers/w24085.
 
