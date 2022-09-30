@@ -18,13 +18,16 @@ In summary, I want to talk about people's happiness rate worldwide, how they cha
 ![Part 1 Sketch](Pictures/Final-Project-Sketch.png)
 This is an overview of the sketch I made using Balsamiq Wireframes. Since the charts and texts are small, I will go through the sketch one part at a time below.
 
-![Set up - Visual 1](Pictures/Set-up-visual1.png)
+<img src="Pictures/Set-up-visual1.png" alt="Set up - Visual 1" width="1000"/>  
+
 For the first visual of the Set-up section, I want to make an interactive map that shows the Happiness Index in different countries in a given year. The map will be in diverging colors with countries with higher Happiness Index in bright color and countries with lower Happiness Index in dark color. On the top left side, the viewer can filter different years. When the viewer clicks on a country, a bar chart should appear on a pop-up showing the trend of the Happiness Index through the years. This interactive map provides a platform for viewers to explore how happy people are around the world and whether things change as time passes.
 
-![Set up - Visual 2](Pictures/Set-up-Visual2.png)
-For the second visual of the Set-up section, I want to convey how people have been unhappier worldwide in recent years by comparing the number of countries with increasing or decreasing Happiness Index. Therefore, I plan to create two tables showing the countries in each category and how much the index changed for the country.
+<img src="Pictures/Set-up-Visual2.png" alt="Set up - Visual 2" width="1000"/>
+
+For the second visual of the Set-up section, I want to convey how people have been unhappier worldwide in recent years by comparing the number of countries with increasing or decreasing Happiness Index. Therefore, I plan to create two tables showing the countries in each category and how much the index changed for the country. In addition, I want to highlight the trend of dropping the Happiness Index in two countries I care about most: the US and China(my home country). For this project, I will dig into some reasons that cause the trend in the US.
 
 ![Conflict - Visual 1](Pictures/Conflict-Visual1.png)
+Then, after 
 
 ![Conflict - Visual 2](Pictures/Conflict-Visual2.png)
 
