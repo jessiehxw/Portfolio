@@ -34,4 +34,8 @@ This is my public portfolio for Telling Stories with Data at CMU!
 [Part I](final-project-part1.md)  
 This part includes the outline, initial sketches, data, and medium I would use to deliver the project.
 
+[Part II](final_project_part2.md)
+This part includes creating Wireframes based on the sketch, conducting user research and make improvements based on the result.
+
+
 
