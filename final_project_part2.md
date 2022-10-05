@@ -11,4 +11,4 @@ At the start, I will show the wireframe I made in Part I for reference:
 ### User Research
 
 #### Goals/Questions
-<img src="Pictures/Goals&Questions.png" alt="Goals & Questions" width="600"/>
+<img src="Pictures/Goals&Questions.png" alt="Goals & Questions" width="650"/>
