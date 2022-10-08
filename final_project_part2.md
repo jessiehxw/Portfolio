@@ -76,3 +76,13 @@ Secondly, culture shock. On the second page, I created a bar chart displaying th
 The third factor is high expectations. But I haven't finished the rest of the content so far. I still have two more elements to illustrate and the resolution at the end. I will complete them this weekend and update the contents here.
 ![High Expectations](Pictures/high_expectation.jpeg)
 
+#### Reference
+1. Ali, Syed, and Raza Bukhari. Barriers Related to Language and Culture Which Prevent Overseas Students from Achieving Their Potential. 31 Jan. 2015.
+2. Bilton, Isabelle. “5 Points of Stress for International Students – and How to Overcome Them.” Study International, 14 May 2018, www.studyinternational.com/news/5-points-stress-international-students-overcome/.
+3. Carnegie Mellon University. “International Applicants - Undergraduate Admission - Carnegie Mellon University.” Www.cmu.edu, 7 July 2021, www.cmu.edu/admission/admission/international-applicants#:~:text=Carnegie%20Mellon%20often%20ranks%20in. Accessed 8 Oct. 2022.
+4. Funalysis. “What Shocks Japanese the Most in the US, 10 Examples Ranked | Funalysis.” Funalysis, 21 Jan. 2019, www.funalysis.net/culture-what-shocks-japanese-the-most-in-the-us-10-examples-ranked. Accessed 8 Oct. 2022.
+5. FWD.us. “International Students & Graduates in the U.S.” FWD.us, 15 Dec. 2021, www.fwd.us/news/international-students/.
+6. ICEF Monitor. “Do International Students Face Additional Barriers in Accessing Mental Health Supports?” ICEF Monitor - Market Intelligence for International Student Recruitment, 10 Aug. 2022, monitor.icef.com/2022/08/do-international-students-face-additional-barriers-in-accessing-mental-health-supports/. 
+7. Killorin, Matt. “How to Deal with Culture Shock: A Guide for International Students.” Shorelight.com, 4 Mar. 2022, shorelight.com/student-stories/how-to-deal-with-culture-shock-a-guide-for-international-students/.
+
+
