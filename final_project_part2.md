@@ -25,24 +25,54 @@ What I get told most is my topic of "Happiness Rate Worldwide" is too broad to b
 #### New Outline
 I rewrote the outline to match the new topic.
 
-**Setup:** International students are generally under higher stress due to unique mental stressors:
+**Setup:** International students are generally under higher stress.
+
+**Conflict:** The stress are caused by unique mental stressors:
 - Language Barriers
 - Culture Shock
 - High expectations
 - Loneliness
 
-**Conflict:** Although international students are experiencing huge stress, they are not actively seeking mental health supports, and here is why:
-- Unsure whether the cost of counsellings are included in their Overseas Student Health Cover
-- Long wait times to get counselling appointments
-- Staff who did not speak a language other than English and who lacked awareness of cultural differences
-- Worries that if they revealed a mental health challenge, their enrolment status would be jeopardised
-- Lack of regular communication about available services
-
 **Resolution:** 
-- Shorter waiting lists
+What can be done by international students: (list of tips for handling each stressor)
+What can be done by universities:
+- Shorter waiting lists for mental counselling
 - Increasing the number of online counselling appointments
-- Clear and updated information on university FAQ pages
-- Staff with diverse culture backgrounds 
+- Clear and updated counselling information on university FAQ pages
+- Counselor with diverse culture backgrounds 
 
 #### Shorthand
+Since I switched my topic after gathering feedbacks, I wasn't able to finish all the Shorthand. Below is the link to the Shorthand that I completed.  
 [Shorthand Link](https://preview.shorthand.com/9uBSyThFDIlkvd8c)
+
+Next, I'll go through each page of the Shorthand that I made so far. 
+
+**Cover Page**
+I think I can think of a better title, but no idea so far. 
+![Cover](Pictures/cover.png)
+
+**Background**
+This paragraph briefly talked about the background of my topic. 
+![Background](Pictures/Background.png)
+
+Some statistics illustrating the problem are visualized by highlighting the number of stressed students among every ten international students according to the proportion.
+![Background Statistics](Pictures/Background_stats.jpeg)
+
+**Why does it matter**
+I used stacked icons here to represent the quantity since it gives a direct visual comparison. 1,075,496 is a large number, but without comparison, the audience will not clearly understand how large it is. Since the primary audience is all CMU students, I figured it would make sense to compare the number to the current number of CMU students. Now, the audience will better grasp how large the group (international students) is.
+![Background Statistics](Pictures/why_matters.png)
+
+**4 Unique Mental Stressors**
+Audience is guided to the Analysis section after the Setup. In this section, the four unique mental stressors faced by international students are discussed. 
+![Subtitle](Pictures/Subtitle.png)
+
+Firstly, the language barrier is a critical element that causes stress for international students. Below the paragraph, I presented some survey results on how language barriers have affected students' ability to complete studies. I used donut charts here since they are suitable for percentages and not as overwhelming as a pie chart for only presenting one ratio in each graph. I highlighted the keywords under each donut chart, explaining the percentage.
+![Language Barriers](Pictures/language_barriers.jpeg)
+
+Secondly, culture shock. On the second page, I created a bar chart displaying the biggest culture shocks Japanese people experienced in the US. The data represents the times each culture shock is mentioned in the top 15 websites in Google Search. Then, I ordered them by value. Interestingly, Japanese people are most surprised by the huge amount of food in the US.
+![Culture Shock](Pictures/Culture_shock.jpeg)
+![Culture Shock Statistics](Pictures/Culture_shock_stats.jpeg)
+
+The third factor is high expectations. But I haven't finished the rest of the content so far. I still have two more elements to illustrate and the resolution at the end. I will complete them this weekend and update the contents here.
+![High Expectations](Pictures/high_expectation.jpeg)
+
