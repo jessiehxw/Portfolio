@@ -4,6 +4,10 @@ October 12th
 
 > The final data story: [Shorthand Link](https://carnegiemellon.shorthandstories.com/international-students-stress-level/index.html)
 
+### Previous Project Process
+>Outline, Initial Sketches, Data, and Medium: [Part I](final-project-part1.md)  
+>User Research, Improvements, and First half on Shorthand: [Part II](final_project_part2.md)
+
 ### Changes After Part II
 Since I haven't fully finished my Shorthand when I completed part II, I added the thought process for making the remaining parts here.
 ![High Expectations](Pictures/high_expectation.jpeg)
