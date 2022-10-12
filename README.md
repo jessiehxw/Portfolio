@@ -37,5 +37,7 @@ This part includes the outline, initial sketches, data, and medium I would use t
 [Part II](final_project_part2.md)  
 This part includes creating Wireframes based on the sketch, conducting user research and make improvements based on the result.
 
+[Part III](final-project-part3.md)  
+This part includes the final data story and the thought process along the way.
 
 
