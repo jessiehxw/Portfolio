@@ -38,6 +38,8 @@ I made scroll-points to display several tips for international students to overc
 ![Resource](Pictures/Resource.jpeg)
 At the end of the tips, I added the link to the Counseling and Psychological Services at CMU. I didn't know there were such services at CMU at all. So if students ever need someone to talk to about their academic or personal life to release stress or talk about any struggles, they can make appointments on the website of this link.
 
+That's the end of my project. After this page, I added a reference page with all my used resources. For the images that I used that are not from Unsplash, I added footnotes below each image with the author, the source, and the license information.
+
 
 
 **Add images' copyright marks**
