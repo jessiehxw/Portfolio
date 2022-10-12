@@ -19,7 +19,25 @@ The last factor is Loneliness. International students tend to get lonely being f
 
 This is the end of the Stressors Analysis section. Next, for the call to action, I created two sections for different audience.
 ![How can universities provide better help](Pictures/Universities_subtitle.png)
-The first section is 
+The first audience is universities' counseling service providers.
+![Current situation for counseling services](Pictures/Current_situation.jpeg)
+Currently, only less than one fifth of students have used the counseling services at their institution. The students provided some recommendations on how to improve the counseling services.
+![Shorter waiting lines](Pictures/shorter_lines.jpeg)
+![More online appointments](Pictures/more_online_appointments.jpeg)
+![Multilingual staff](Pictures/multilingual_staff.jpeg)
+I added GIF next to each tip to help quick understanding and make the page more interesting to look at. 
+
+The second group of audience is international students.
+![How to overcome stress as international students](Pictures/student_subtitle.png)
+I made scroll-points to display several tips for international students to overcome stress. 
+- Go out of your comfort zone and emerge yourself in the language
+- Give yourself time to adapt
+- Don't hold yourself to unrealistic standards
+- Meet new people, find new interests/ Stay in touch with your friends and family
+
+![Resource](Pictures/Resource.jpeg)
+At the end of the tips, I added the link to the Counseling and Psychological Services at CMU. I didn't know there were such services at CMU at all. So if students ever need someone to talk to about their academic or personal life to release stress or talk about any struggles, they can make appointments on the website of this link.
+
 
 
 **Add images' copyright marks**
